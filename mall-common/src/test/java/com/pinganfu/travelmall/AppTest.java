@@ -1,4 +1,4 @@
-package org.example;
+package com.pinganfu.travelmall;
 
 import static org.junit.Assert.assertTrue;
 
